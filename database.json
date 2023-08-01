@@ -1,0 +1,9 @@
+{
+    "dev": {
+      "driver": "pg",
+      "user": "testing",
+      "password": "testing",
+      "host": "localhost",
+      "database": "SP-Demo"
+    }
+  }
