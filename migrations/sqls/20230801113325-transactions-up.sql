@@ -1,4 +1,5 @@
 /* Replace with your SQL commands */
+
 -- create transaction
 
 CREATE TABLE t_accounts(
